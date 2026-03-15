@@ -1,0 +1,30 @@
+# 📧 EMAILMIKE - Sistema de Envío de Emails SOLID
+
+Sistema de envío de emails refactorizado aplicando los principios SOLID. Originalmente una clase monolítica, ahora es un sistema modular, extensible y testeable.
+
+## 📋 Tabla de Contenidos
+- [Características](#características)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Principios SOLID Aplicados](#principios-solid-aplicados)
+- [Requisitos Previos](#requisitos-previos)
+- [Instalación](#instalación)
+- [Configuración de Gmail](#configuración-de-gmail)
+- [Uso](#uso)
+- [Ejemplos](#ejemplos)
+- [Pruebas](#pruebas)
+- [Extensibilidad](#extensibilidad)
+- [Contribuir](#contribuir)
+- [Licencia](#licencia)
+
+## ✨ Características
+
+- ✅ **Arquitectura SOLID**: Código modular y mantenible
+- ✅ **Múltiples proveedores**: Gmail (configurado), fácil de extender a Outlook, Yahoo, etc.
+- ✅ **Múltiples formatos**: Texto plano, HTML, JSON (extensible)
+- ✅ **Validación de emails**: Regex y validadores personalizables
+- ✅ **Mock Provider**: Pruebas sin enviar emails reales
+- ✅ **Context Manager**: Conexiones automáticas (with statement)
+- ✅ **Logging integrado**: Depuración fácil
+- ✅ **Totalmente testeable**: Inyección de dependencias
+
+## 📁 Estructura del Proyecto

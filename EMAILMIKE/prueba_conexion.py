@@ -1,0 +1,1 @@
+MI_PASSWORD = "ijxc olkw rhku htnr"  # Escríbela tú mismo
