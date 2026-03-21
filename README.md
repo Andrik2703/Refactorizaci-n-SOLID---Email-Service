@@ -2,6 +2,8 @@
 
 Evidencia
 <img width="905" height="681" alt="image" src="https://github.com/user-attachments/assets/6da311fa-968f-4a60-b4df-ffb152a425bd" />
+<img width="1366" height="519" alt="image" src="https://github.com/user-attachments/assets/76fd94e8-2d4b-4789-af56-880276ee8919" />
+
 
 
 ## 📖 Sobre el Proyecto
