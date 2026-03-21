@@ -1,5 +1,9 @@
 # 📧 EMAILMIKE - Refactorización SOLID
 
+Evidencia
+<img width="905" height="681" alt="image" src="https://github.com/user-attachments/assets/6da311fa-968f-4a60-b4df-ffb152a425bd" />
+
+
 ## 📖 Sobre el Proyecto
 
 Este proyecto es el resultado de una refactorización profunda de un sistema de envío de emails originalmente implementado como una clase monolítica. El objetivo principal fue aplicar los **principios SOLID** para obtener un código más mantenible, testeable y extensible.
@@ -117,10 +121,6 @@ class EmailService:
 3. Validador (EmailRegexValidator) → Service (EmailService) ← Formateador (Text/HTML/JSON)
    ↓
 4. Envío de email
-
-Evidencia
-<img width="905" height="681" alt="image" src="https://github.com/user-attachments/assets/6da311fa-968f-4a60-b4df-ffb152a425bd" />
-
 
 🔗 Referencias
 Principios SOLID explicados
